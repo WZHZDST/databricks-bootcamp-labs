@@ -4,6 +4,12 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .ruff_cache/
+.chroma/
+.ipynb_checkpoints/
 test-results.xml
 plan.txt
 .DS_Store
+docs
+.chroma
+.databricks
+.idea
